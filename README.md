@@ -39,3 +39,6 @@ This project is under [MIT](LICENSE) license
 
 ## Contact
 Incase of any queries contact me at my [email](ian.wanjira@student.moringaschool.com)
+
+## Copyright
+copyright (c) 2021 vote_quote
