@@ -33,3 +33,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - CSS
 - Bootstrap
 - Angular CLI
+
+## License
+This project is under [MIT](LICENSE) license
