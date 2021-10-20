@@ -1,7 +1,6 @@
  *{
-  
+ 
    box-sizing: border-box;
-
  }
  
  form{
@@ -19,7 +18,6 @@
    width: 80%;
    height: auto;
    border-radius: 50%;
-
  }
 
  #user_profile img {
