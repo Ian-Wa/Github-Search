@@ -19,8 +19,6 @@ export class ProfileComponent implements OnInit {
   followers: any;
   following: any;
 
-
-
   constructor(private showProfile: ShowProfileService) {
     this.showProfile = showProfile;
     this.usr = this.showProfile.user
