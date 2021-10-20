@@ -56,10 +56,7 @@ export class UserService {
   showMyRepo(username: string) {
   }
 
-
-
   ngOnInit() { }
-
 
 }
 
